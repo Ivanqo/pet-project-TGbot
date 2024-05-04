@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import sqlite3
 
-bot = telebot.TeleBot('6890583766:AAGQJggKd7PMXToN2mNx1zOeit49efm8oF4')
+bot = telebot.TeleBot('token')
 uname = None
 passw = None
 
